@@ -2,7 +2,7 @@
 <p>Desenvolvi um projeto simples com o objetivo de aprender mais sobre responsividade em sites. Para isso, utilizei apenas HTML e CSS, focando em entender melhor como elementos da página se adaptam a diferentes tamanhos de tela.</p>
 <br>
 <p>Criei um projeto simples com o objetivo de aprender mais sobre design responsivo, utilizando apenas HTML e CSS, sem frameworks ou bibliotecas externas.
-
+<br>
 Durante o desenvolvimento, explorei diversos conceitos importantes de responsividade, como:
 <ul>
 <li>Media queries, para adaptar o layout a diferentes tamanhos de tela;</li>
