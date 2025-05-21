@@ -27,3 +27,5 @@ O projeto também conta com uma estrutura básica de layout dividido em dois blo
 <p>CSS</p>
 <br>
 <h3>Imagens</h3>
+<img src="https://github.com/ArthurFerreiraTeixeira/projeto-responsivo/blob/main/img/projeto%20web.png?raw=true">
+<br>
