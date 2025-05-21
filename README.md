@@ -26,6 +26,7 @@ O projeto também conta com uma estrutura básica de layout dividido em dois blo
 <p>HTML</p>
 <p>CSS</p>
 <br>
-<h3>Imagens</h3>
+<h2>Imagens</h2>
 <img src="https://github.com/ArthurFerreiraTeixeira/projeto-responsivo/blob/main/img/projeto%20web.png?raw=true">
 <br>
+<img src="https://github.com/ArthurFerreiraTeixeira/projeto-responsivo/blob/main/img/projeto%20celulcar.png?raw=true">
